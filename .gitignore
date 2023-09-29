@@ -1,0 +1,5 @@
+# Node.js
+node_modules/
+
+# Exclude package-lock.json
+package-lock.json
